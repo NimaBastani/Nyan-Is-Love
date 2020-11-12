@@ -1,0 +1,15 @@
+D:\Code\2-c#\CyanIsLove\CyanIsLove\bin\Release\CyanIsLove.exe.config
+D:\Code\2-c#\CyanIsLove\CyanIsLove\bin\Release\CyanIsLove.exe
+D:\Code\2-c#\CyanIsLove\CyanIsLove\bin\Release\CyanIsLove.pdb
+D:\Code\2-c#\CyanIsLove\CyanIsLove\bin\Release\Interop.WMPLib.dll
+D:\Code\2-c#\CyanIsLove\CyanIsLove\bin\Release\AxInterop.WMPLib.dll
+D:\Code\2-c#\CyanIsLove\CyanIsLove\obj\Release\CyanIsLove.csprojAssemblyReference.cache
+D:\Code\2-c#\CyanIsLove\CyanIsLove\obj\Release\Interop.WMPLib.dll
+D:\Code\2-c#\CyanIsLove\CyanIsLove\obj\Release\AxInterop.WMPLib.dll
+D:\Code\2-c#\CyanIsLove\CyanIsLove\obj\Release\CyanIsLove.csproj.ResolveComReference.cache
+D:\Code\2-c#\CyanIsLove\CyanIsLove\obj\Release\CyanIsLove.Form1.resources
+D:\Code\2-c#\CyanIsLove\CyanIsLove\obj\Release\CyanIsLove.Properties.Resources.resources
+D:\Code\2-c#\CyanIsLove\CyanIsLove\obj\Release\CyanIsLove.csproj.GenerateResource.cache
+D:\Code\2-c#\CyanIsLove\CyanIsLove\obj\Release\CyanIsLove.csproj.CoreCompileInputs.cache
+D:\Code\2-c#\CyanIsLove\CyanIsLove\obj\Release\CyanIsLove.exe
+D:\Code\2-c#\CyanIsLove\CyanIsLove\obj\Release\CyanIsLove.pdb
